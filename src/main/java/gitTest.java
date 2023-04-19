@@ -4,5 +4,6 @@ public class gitTest {
         System.out.println("master git ...");
         System.out.println("hot-fix git Test...");
         System.out.println("master git ...");
+        System.out.println("git origin commit...");
     }
 }
